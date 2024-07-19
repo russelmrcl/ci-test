@@ -3,7 +3,3 @@
 -- 
 
 test
-
-asdf
-
-check
