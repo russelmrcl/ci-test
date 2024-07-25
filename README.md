@@ -1,5 +1,3 @@
 # ci-test
 
 test
-
-abcdefghijklmnoprstuvwxyz
