@@ -1,4 +1,2 @@
 # CI Test
 
-adfasfasfas
-jkasfhasuihfr
